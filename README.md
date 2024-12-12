@@ -1,5 +1,5 @@
 # 2024 NFLPA Case Competition
-
+Atul Venkatesh, Charli Fisher, Lauren Groulx, Nico Luginbill
 ## Introduction
 What constitutes the middle class in the National Football League? And how has it changed in the last 10 years? The following code will be used to help answer these questions.
 
